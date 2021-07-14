@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 Fala Dev! Artur aqui!
-⚡ Atualmente estou estudando Javascript e sou um amante do CSS (segundo o Goole, é uma linguagem de programação 😄)!
-💬 Me sigam lá no twitter, me mandem indicações dev. Vamos interagir! 
+- ⚡ Atualmente estou estudando Javascript e sou um amante do CSS (segundo o Goole, é uma linguagem de programação 😄)!
+- 💬 Me sigam lá no twitter, me mandem indicações dev. Vamos interagir! 
 
 
 <!--
