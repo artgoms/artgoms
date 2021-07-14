@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Fala Dev! Artur aqui!
+⚡ Atualmente estou estudando Javascript e sou um amante do CSS (segundo o Goole, é uma linguagem de programação 😄)!
+💬 Me sigam lá no twitter, me mandem indicações dev. Vamos interagir! 
+
+
 <!--
 **artgoms/artgoms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
