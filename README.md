@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Fala Dev! Artur aqui!
-- ⚡ Atualmente estou estudando React e Next e sou um amante do CSS!
+- ⚡ Sou formado em Engenharia Química, mas sempre amei tech e programação, e atualmente estou estudando React e Next! AHH! sou um amante do CSS!
 - 💬 Me sigam lá no twitter, me mandem indicações dev. Vamos interagir! 
 
 <div align="center">
