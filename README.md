@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Fala Dev! Artur aqui!
-- ⚡ Sou formado em Engenharia Química, mas sempre amei tech e programação! Atualmente sou estudante de ADS e estou em transição de carreira e estudando Vuejs, React, Next! AHH! sou um amante do CSS!
+- ⚡ Formado em Engenharia Química e de Segurança do Trabalho, mas caí na lábia tech e programação! Atualmente sou estudante de ADS e tenho estudado Node, Vue, React e Next! AHH! e sou um amante do CSS!
 - 💬 Me sigam lá no twitter, me mandem indicações dev. Vamos interagir! 
 
 <div align="center">
